@@ -84,6 +84,8 @@ JavaScript is a programming language that is used to create interactive web page
 Git is a version control system that allows you to track changes in your code and collaborate with others. GitHub is a web-based hosting service for version control using Git.
 
 ### 📚 Resources
+- **▶️ Introduction:** [Introduction to Git](https://youtu.be/hwP7WQkmECE?si=KVOtiM8tWXJkz3yI)
+
 #### 📖 Documentation
 - [W3Schools - Git Tutorial](https://www.w3schools.com/git/default.asp)
 
